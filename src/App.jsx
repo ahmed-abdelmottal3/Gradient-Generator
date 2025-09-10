@@ -105,7 +105,6 @@ const handleCopy = async () => {
 
         {/*---------------------------- Preview Section ----------------------------*/}
       <div className="flex flex-col items-center gap-6">
-      {/* معاينة الجريدينت */}
       <div
         className="w-full h-80 rounded-2xl shadow-2xl border border-white/20"
         style={{ background: `linear-gradient(${angle}deg, ${colors.join(", ")})` }}
